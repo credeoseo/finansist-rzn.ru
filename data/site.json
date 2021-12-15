@@ -1,10 +1,10 @@
 {
-    "name": "Финансист",
+    "name": "Финансист Рязани",
     "logoUrl": "/img/logo.png",
     "faviconUrl": "/img/favicon.png",
     "department": "MSK",
     "wmid": "18245",
     "city": "Рязань",
-    "api": "https://dev3.credeo.ru/v1/lead/new-guest",
+    "api": "https://credeo.ru/v1/lead/new-guest",
     "credeoApi": true
 }
